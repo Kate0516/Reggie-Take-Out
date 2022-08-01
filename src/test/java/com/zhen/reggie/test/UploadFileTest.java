@@ -1,4 +1,4 @@
-package com.zhen.test;
+package com.zhen.reggie.test;
 
 import org.junit.jupiter.api.Test;
 
